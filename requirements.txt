@@ -1,10 +1,12 @@
 asgiref==3.2.3
 Django==3.0.2
-django-basic-jwt-auth==0.4
+django-basic-jwt-auth==0.2
 django-cors-headers==3.1.0
 djangorestframework==3.11.0
 djangorestframework-simplejwt==4.3.0
 ecdsa==0.15
+psycopg2==2.7.7
+psycopg2-binary==2.8.3
 pyasn1==0.4.8
 PyJWT==1.7.1
 python-jose==3.1.0
