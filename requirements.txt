@@ -9,7 +9,7 @@ coverage==4.5.4
 coveralls==1.8.2
 defusedxml==0.6.0
 dj-database-url==0.5.0
-Django==2.2.10
+Django==2.2.21
 django-basic-jwt-auth==0.2
 django-braces==1.13.0
 django-cors-headers==3.1.0
